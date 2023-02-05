@@ -1,0 +1,15 @@
+C:\Users\b3am0\source\repos\ProjetoPoupancaC\bin\Debug\net6.0\ProjetoPoupancaC.exe
+C:\Users\b3am0\source\repos\ProjetoPoupancaC\bin\Debug\net6.0\ProjetoPoupancaC.deps.json
+C:\Users\b3am0\source\repos\ProjetoPoupancaC\bin\Debug\net6.0\ProjetoPoupancaC.runtimeconfig.json
+C:\Users\b3am0\source\repos\ProjetoPoupancaC\bin\Debug\net6.0\ProjetoPoupancaC.dll
+C:\Users\b3am0\source\repos\ProjetoPoupancaC\bin\Debug\net6.0\ProjetoPoupancaC.pdb
+C:\Users\b3am0\source\repos\ProjetoPoupancaC\obj\Debug\net6.0\ProjetoPoupancaC.csproj.AssemblyReference.cache
+C:\Users\b3am0\source\repos\ProjetoPoupancaC\obj\Debug\net6.0\ProjetoPoupancaC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b3am0\source\repos\ProjetoPoupancaC\obj\Debug\net6.0\ProjetoPoupancaC.AssemblyInfoInputs.cache
+C:\Users\b3am0\source\repos\ProjetoPoupancaC\obj\Debug\net6.0\ProjetoPoupancaC.AssemblyInfo.cs
+C:\Users\b3am0\source\repos\ProjetoPoupancaC\obj\Debug\net6.0\ProjetoPoupancaC.csproj.CoreCompileInputs.cache
+C:\Users\b3am0\source\repos\ProjetoPoupancaC\obj\Debug\net6.0\ProjetoPoupancaC.dll
+C:\Users\b3am0\source\repos\ProjetoPoupancaC\obj\Debug\net6.0\refint\ProjetoPoupancaC.dll
+C:\Users\b3am0\source\repos\ProjetoPoupancaC\obj\Debug\net6.0\ProjetoPoupancaC.pdb
+C:\Users\b3am0\source\repos\ProjetoPoupancaC\obj\Debug\net6.0\ProjetoPoupancaC.genruntimeconfig.cache
+C:\Users\b3am0\source\repos\ProjetoPoupancaC\obj\Debug\net6.0\ref\ProjetoPoupancaC.dll
